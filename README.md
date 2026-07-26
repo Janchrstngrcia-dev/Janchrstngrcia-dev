@@ -4,10 +4,10 @@ I'm a Fullstack Web and Mobile Developer with 2+ years of experience building sc
 ---
 
 ## 🚀 What I Do
-- Develop fullstack applications using the **MERN stack**
-- Build responsive, modern UI using **React**, **Next.js**, and **TypeScript**
-- Create secure, scalable REST APIs with **Node.js** and **Express**
-- Integrate databases and optimize queries with **MongoDB**
+- Develop fullstack applications using the MERN stack
+- Build responsive, modern UI using **React**, **Next.js**, and TypeScript
+- Create secure, scalable REST APIs with Node.js and **Express
+- Integrate databases and optimize queries with MongoDB
 - Implement best practices in UI/UX, clean architecture, and component-based design
 
 ---
@@ -33,9 +33,9 @@ I'm a Fullstack Web and Mobile Developer with 2+ years of experience building sc
 ---
 
 ## 📫 Contact Me
-📧 **janchrstn.dev@gmail.com**  
-🌐 **Portfolio:** https://my-main-portfolio-jcdev999s-projects.vercel.app  
-🔗 **LinkedIn:** https://linkedin.com/in/jan-christian-garcia-5b7525261  
+📧 janchrstn.dev@gmail.com
+🌐 https://my-main-portfolio-jcdev999s-projects.vercel.app  
+🔗 https://linkedin.com/in/jan-christian-garcia-5b7525261  
 
 ---
 
