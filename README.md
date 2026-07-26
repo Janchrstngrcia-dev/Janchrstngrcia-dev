@@ -34,7 +34,9 @@ I'm a Fullstack Web and Mobile Developer with 2+ years of experience building sc
 
 ## 📫 Contact Me
 📧 janchrstn.dev@gmail.com
-🌐 https://my-main-portfolio-jcdev999s-projects.vercel.app  
+
+🌐 https://my-main-portfolio-jcdev999s-projects.vercel.app
+
 🔗 https://linkedin.com/in/jan-christian-garcia-5b7525261  
 
 ---
